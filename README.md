@@ -4,8 +4,13 @@
 1. EDA visualization  
 <img src="./images/corr.png" alt="correlation"/>
 CORRELATION MATRIX
+
+
 <img src="./images/combined_score.png" alt="GRE TOEFL COMBINED"/>
 CORRELATION MATRIX (GRE TOFEL COMBINED)
+
+
+
 <img src="./images/x_y_relationship.png" alt="Pair Analysis"/>
 PAIR WISE ANALYSIS
 
