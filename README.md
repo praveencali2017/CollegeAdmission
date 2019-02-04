@@ -1,9 +1,9 @@
 # Admission Prediction
 
     1. EDA visualization
-    <img src="/images/corr.png" alt="Features Realtion"/>
-    <img src="/images/combined_score.png" alt="GRE TOEFL COMBINED"/>
-    <img src="/images/x_y_relationship.png" alt="Line chart"/>
+    <img src="images/corr.png" alt="Features Realtion"/>
+    <img src="images/combined_score.png" alt="GRE TOEFL COMBINED"/>
+    <img src="images/x_y_relationship.png" alt="Line chart"/>
 
 # R2 Score
 
